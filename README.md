@@ -1,7 +1,8 @@
 # Block-Games
 
-Sample game on Desktop: https://blocks-desktop-andregnandt.fly.dev
-Sample game on Mobile: https://blocks-mobile-andregnandt.fly.dev
+Sample game on Desktop: https://blocks-desktop-andregnandt.fly.dev/
+
+Sample game on Mobile: https://blocks-mobile-andregnandt.fly.dev/
 
 I created templates for several block games similar to tetris, but with more variety and features. The games can play tetris with any shapes of blocks that fit in a 4X4 grid and on any board shapes and sizes, with any design of walls and obstacles. The blocks can move in any direction: left, right, up or down.
 
